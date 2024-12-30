@@ -1,0 +1,39 @@
+.mainBox{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    
+} 
+.div2 img{
+    width: 150;
+    height: 150;
+    margin-left: 500px;
+    border-radius: 50%;
+    border: 3px orange solid;
+}
+.div3 {
+    color: whitesmoke;
+    background-color: orangered;
+    width: 350px;
+    height: 180px;
+    margin-left:400px ;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 15px;
+
+
+}
+
+#y{
+    color: black;
+}
+.div3 h3{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.div3 h5
+{
+    padding-left: 60px;
+
+}
